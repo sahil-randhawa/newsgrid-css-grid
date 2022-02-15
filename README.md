@@ -4,4 +4,4 @@
 
 Preview link : [newsgrid-css-grid](https://sahil-randhawa.github.io/newsgrid-css-grid/)
 
-[](./screencap.png)
+![](./screencap.png)
